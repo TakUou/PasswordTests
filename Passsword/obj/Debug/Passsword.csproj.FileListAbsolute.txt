@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Passsword\Passsword\bin\Debug\Passsword.dll
+C:\Users\user\source\repos\Passsword\Passsword\bin\Debug\Passsword.pdb
+C:\Users\user\source\repos\Passsword\Passsword\obj\Debug\Passsword.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Passsword\Passsword\obj\Debug\Passsword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Passsword\Passsword\obj\Debug\Passsword.dll
+C:\Users\user\source\repos\Passsword\Passsword\obj\Debug\Passsword.pdb
